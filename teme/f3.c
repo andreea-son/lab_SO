@@ -1,5 +1,7 @@
-//F3. (2.5 puncte) Scrieti un program care primeste ca argument in linia de
-//comanda un intreg si afisaza descompunerea sa in factori primi.
+/*
+F3. (2.5 puncte) Scrieti un program care primeste ca argument in linia de
+comanda un intreg si afisaza descompunerea sa in factori primi.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
